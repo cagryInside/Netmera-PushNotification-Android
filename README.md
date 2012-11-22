@@ -1,4 +1,5 @@
 Netmera Android Push Service Demo
+
 This is a sample project that demonstrates the usage of Netmera Android push service. For more information, please visit our Android Guide page.
 
 Notes
